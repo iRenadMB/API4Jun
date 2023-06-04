@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "APPLE-MacBook-Pro_-M2_-8GB_-256GB-SSD_-13-3-inch_-Touch-Bar_-Space-Grey-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

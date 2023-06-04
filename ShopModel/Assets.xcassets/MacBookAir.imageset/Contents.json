@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "APPLE-MacBook-Air_-M1_-8GB_-256GB_-13-inch_-Touch-ID_-Gold-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
